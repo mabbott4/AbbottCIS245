@@ -20,5 +20,3 @@ def miles_to_kilometers(miles):  # convert miles to kilometers
     print(miles, "miles converts to", kilometers, "kilometers.")
 
 main() #call the main function
-#testing changes 
-#testing 
